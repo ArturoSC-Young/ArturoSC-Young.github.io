@@ -1,6 +1,6 @@
 ---
 title: "Blog"
 layout: category
-taxonomy: tlog
-permalink: /tlog/
+taxonomy: Blog
+permalink: /blog/
 ---
