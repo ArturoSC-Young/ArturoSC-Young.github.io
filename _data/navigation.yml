@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: /
   - title: "Blog"
-    url: /categories/tlog/
+    url: /categories/#tlog/
   - title: "Gallery"
     url: /categories/Gallery/
   # - title: "Tags"
