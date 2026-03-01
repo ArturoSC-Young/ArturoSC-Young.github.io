@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Boyang Tu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/head-photo.jpg"
   # bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
