@@ -5,7 +5,7 @@ search: false
 
 @charset "utf-8";
 body {
-  font-size: 13px;
+  font-size: 15px;
 }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
