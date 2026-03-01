@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gallery"
-permalink: /Gallery/
+permalink: /gallery/
 author_profile: true
 gallery:
   - url: /assets/images/photo1.jpg

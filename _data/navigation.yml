@@ -6,7 +6,7 @@ main:
   - title: "Blog"
     url: /Blog/
   - title: "Gallery"
-    url: /categories/Gallery/
+    url: /gallery/
   # - title: "Tags"
   #   url: /tags/
   # - title: "About"
