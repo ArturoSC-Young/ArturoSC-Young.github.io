@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /Publications/
 title: "Publications"
 author_profile: true
