@@ -2,9 +2,9 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
   - title: "Blog"
-    url: /Blog/
+    url: /blog/
   - title: "Gallery"
     url: /gallery/
   # - title: "Tags"

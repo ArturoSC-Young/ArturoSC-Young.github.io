@@ -30,3 +30,32 @@ body {
     width: 100%;
   }
 }
+
+.gallery__item img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
+  border-radius: 8px; /* 让图片带点圆角，更有现代感 */
+  cursor: pointer;
+}
+
+/* 2. 悬停状态：鼠标移上去时的变化 */
+.gallery__item img:hover {
+  /* 稍微放大 5% */
+  transform: scale(1.05); 
+  
+  /* 增加柔和的阴影，产生“悬浮”在纸面上的视觉感 */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
+  
+  /* 稍微增加亮度，让图片“亮”起来 */
+  filter: brightness(1.1); 
+  
+  /* 确保悬停时图片在最上层，不被遮挡 */
+  position: relative;
+  z-index: 10;
+}
+
+/* 3. (可选) 给图片容器加一个溢出隐藏，防止放大时超出边界 */
+.gallery__item {
+  overflow: hidden;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
