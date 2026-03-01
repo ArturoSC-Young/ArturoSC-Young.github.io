@@ -7,8 +7,8 @@ permalink: /
 author_profile: true
 ---
 
-# Boyang Tu | 涂博洋
-![photo]({{ '/assets/images/bio-photo.jpg' | relative_url }}){: .align-right width="300px"}
+# Zhichuan Li | 李之川
+![photo]({{ '/assets/images/bio-photo.jpg' | relative_url }}){: .align-right width="100px"}
 I am a student at the Mcgill.I am a first-year PhD student in the Internet of Everything Group at the University of Cambridge, where I am fortunate to be supervised by Prof. Ozgur Akan, and advised by Prof. Jon Crowcroft and Dr. Kai Li. My research is supported by the Cambridge Trust and CSC Scholarships. Previously, I had the privilege of conducting summer research with Prof. Pietro Liò in the Artificial Intelligence Group.
 
 <br clear="left" />

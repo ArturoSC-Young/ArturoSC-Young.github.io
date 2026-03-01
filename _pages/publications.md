@@ -2,6 +2,7 @@
 layout: page
 permalink: /Publications/
 title: "Publications"
+author_profile: true
 ---
 
 > (†: equal contribution, ~: corresponding author)
