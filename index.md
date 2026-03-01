@@ -15,7 +15,7 @@ I am a student at the Mcgill.I am a first-year PhD student in the Internet of Ev
 
 ***
 ## 🎓 Education
-![hustpic]({{ '/assets/images/hust.jpg' | relative_url }}){: .align-right width="100px"}
+![hustpic]({{ '/assets/images/hust.jpg' | relative_url }}){: .align-left width="100px"}
 * **Huazhong University of Science and Technology** **[2021.09 - 2025.06]**<br>B.E. in Artificial Intelligence
 
 <br clear="left" />
