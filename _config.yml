@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Zhichuan Li"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo-pic.jpg"
   bio              : "I am an **cynic** person."
   location         : "Montreal Canada"
-  email            :
+  email            : "scli19711975@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:scli19711975@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

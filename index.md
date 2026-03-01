@@ -5,21 +5,20 @@
 layout: single
 permalink: /
 author_profile: true
-hide_title: true
+title: "Zhichuan Li | 李之川"
 ---
 
-## Zhichuan Li | 李之川
 <!-- ![photo]({{ '/assets/images/bio-photo.jpg' | relative_url }}){: .align-right width="100px"} -->
 I am a student at the Mcgill.I am a first-year PhD student in the Internet of Everything Group at the University of Cambridge, where I am fortunate to be supervised by Prof. Ozgur Akan, and advised by Prof. Jon Crowcroft and Dr. Kai Li. My research is supported by the Cambridge Trust and CSC Scholarships. Previously, I had the privilege of conducting summer research with Prof. Pietro Liò in the Artificial Intelligence Group.
 <br clear="left" />
 
-***
+
 ## 🎓 Education
 <img src="{{ '/assets/images/hust.jpg' | relative_url }}" class="align-left" width="100px">
 
 * **Huazhong University of Science and Technology** **[2021.09 - 2025.06]**<br><br>B.E. in Artificial Intelligence
 <br clear="left" />
 
-***
+
 ## 📰 News
 * **[2026-03]** 🚀 网站排版优化完成。
